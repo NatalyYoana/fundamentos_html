@@ -1,0 +1,54 @@
+#s1 div{
+    background-color: antiquewhite;
+    width: 400px;
+    display: inline-block;
+}
+#s1{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+table, tr, td, th{
+    margin: 0%;
+}
+
+#s2{
+    display: grid ;
+    grid-template-columns: repeat(2, 1fr);
+}
+#s3 #parrafo, #span_1, #label_1{
+    font-size: 1.2rem
+
+}
+
+#s4 p{
+    font-family: cursive;
+}
+
+#s4 p{
+    color:bisque
+}
+
+#s4 p{
+    color: olive
+}
+
+#s5{
+    text-align: center;
+}
+
+#s5 div{
+    width: 100px;
+    background-color: bisque;
+    display: inline-block;
+    padding: 0.5rem;
+    cursor: pointer;
+
+
+}
+
+#s5 div:hover{
+    color: brown;
+    font-weight: bolder;
+    background-color:blanchedalmond;
+
+}

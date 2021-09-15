@@ -1,0 +1,74 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+#logo{
+    display: block;
+    margin: 0%;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+#formulario h3{
+    text-align: center;
+    padding: 3%;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0%;
+    
+}
+#formulario{
+    width: fit-content;
+    height: fit-content;
+    background-color: #3b83bd;
+}
+#form-registro{
+    position: relative;
+    background-color: #bbd1ea;
+    border: 1px;
+    padding: 15px;
+    text-align: left;
+
+}
+
+#form-registro input{
+    padding: 0.3rem;
+    display: block;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 95%;
+    
+}
+
+#form-registro label{
+    font-weight:bold;
+    line-height: 1;
+    text-transform: uppercase;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+
+    
+
+#Pseguridad{
+    padding: 0.3rem;
+    display: block;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

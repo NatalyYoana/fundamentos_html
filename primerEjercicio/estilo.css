@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+
+}
+form{
+    text-align: left;
+    margin-left: 25%;
+}
+#nombre{
+    width: 70%;
+    
+}
+#apellido{
+    width: 70%;
+    
+}
+#tel{
+    width: 70%;
+    
+}
+#email{
+    width: 70%;
+    
+}
+
+#ciudad{
+    text-align: left;
+    margin-left: 20%;
+
+}
